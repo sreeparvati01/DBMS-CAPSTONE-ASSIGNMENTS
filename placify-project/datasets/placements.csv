@@ -1,0 +1,38 @@
+roll_number,company_name,job_role,package_lpa,placement_date,academic_year,status
+CS2026002,Freshworks Inc.,Software Engineer — Cloud Product,14.5,2026-10-20,2025-26,Offer Accepted
+CS2026005,Atlassian India,Software Engineer — Cloud Platform,24.0,2026-11-05,2025-26,Offer Accepted
+CS2026006,PhonePe Payments,Backend Systems Engineer,19.2,2026-11-08,2025-26,Offer Accepted
+CS2026008,Postman Technologies,Platform Software Engineer,20.5,2026-11-09,2025-26,Offer Accepted
+CS2026011,Nutanix Cloud,Systems Software Engineer,22.0,2026-11-10,2025-26,Offer Accepted
+CS2026012,Flipkart Internet,SDE-1 Full Stack & Commerce,21.0,2026-11-11,2025-26,Offer Accepted
+CS2026014,Deloitte Consulting,Business Technology Analyst,11.2,2026-11-12,2025-26,Offer Accepted
+IT2026016,Infosys Technologies,Specialist Programmer,9.5,2026-09-28,2025-26,Offer Accepted
+IT2026017,Freshworks Inc.,Software Engineer — Cloud Product,14.5,2026-10-20,2025-26,Joined
+IT2026021,PhonePe Payments,Backend Systems Engineer,19.2,2026-11-08,2025-26,Offer Accepted
+IT2026023,Deloitte Consulting,Business Technology Analyst,11.2,2026-11-12,2025-26,Offer Accepted
+IT2026025,Atlassian India,Software Engineer — Cloud Platform,24.0,2026-11-05,2025-26,Offer Accepted
+IT2026027,Zoho Corporation,Member Technical Staff,10.5,2026-11-14,2025-26,Offer Pending
+EC2026028,Bosch Mobility,Embedded Systems Engineer,9.8,2026-11-15,2025-26,Offer Accepted
+EC2026030,Qualcomm Semiconductors,Associate SoC & Firmware Engineer,16.8,2026-11-09,2025-26,Offer Accepted
+EC2026031,Bosch Mobility,Embedded Systems Engineer,9.8,2026-11-15,2025-26,Offer Accepted
+EC2026034,Qualcomm Semiconductors,Associate SoC & Firmware Engineer,16.8,2026-11-09,2025-26,Offer Accepted
+EC2026037,Tata Consultancy Services,Systems & Cloud Engineer,7.5,2026-11-16,2025-26,Offer Accepted
+ME2026038,Honeywell Aerospace,Mechanical Design & CAD Engineer,8.6,2026-11-08,2025-26,Offer Accepted
+ME2026040,Siemens Digital Industries,PLM & CAE Simulation Engineer,9.4,2026-11-12,2025-26,Offer Accepted
+ME2026041,Mahindra Automotive,Graduate Engineer Trainee — EV Powertrain,8.2,2026-11-14,2025-26,Offer Accepted
+CE2026047,Larsen & Toubro ECC,Graduate Engineer Trainee — Structural & Civil,7.8,2026-11-13,2025-26,Offer Accepted
+CE2026048,Larsen & Toubro ECC,Graduate Engineer Trainee — Structural & Civil,7.8,2026-11-13,2025-26,Offer Accepted
+MB2026052,Deloitte Consulting,Business Technology Analyst,11.2,2026-11-02,2025-26,Offer Accepted
+MB2026053,Deloitte Consulting,Strategy & Analytics Associate,12.8,2026-10-24,2025-26,Offer Accepted
+MB2026055,KPMG Advisory,Risk & Financial Analytics Consultant,11.8,2026-11-14,2025-26,Offer Accepted
+MB2026057,Accenture Strategy & Tech,Associate Software & Cloud Analyst,8.5,2026-11-16,2025-26,Offer Pending
+CS2025066,Razorpay Systems,Software Development Engineer I,16.0,2025-03-15,2024-25,Joined
+EC2025067,Bosch Mobility,Firmware Engineer,8.4,2025-04-02,2024-25,Joined
+IT2025068,Flipkart Internet,SDE-1 Commerce Systems,18.5,2025-02-20,2024-25,Joined
+ME2025069,Honeywell Aerospace,Mechanical Engineer,8.0,2025-04-12,2024-25,Joined
+MB2025070,KPMG Advisory,Management Consulting Associate,11.5,2025-03-22,2024-25,Joined
+CS2025071,Atlassian India,Software Engineer,22.5,2025-02-14,2024-25,Joined
+CE2025072,Larsen & Toubro ECC,Structural Engineer,7.4,2025-04-18,2024-25,Joined
+IT2025073,Zoho Corporation,Member Technical Staff,9.6,2025-03-08,2024-25,Joined
+CS2025074,Postman Technologies,Software Engineer,17.8,2025-02-28,2024-25,Joined
+EC2025075,Qualcomm Semiconductors,SoC Verification Engineer,15.2,2025-03-19,2024-25,Joined

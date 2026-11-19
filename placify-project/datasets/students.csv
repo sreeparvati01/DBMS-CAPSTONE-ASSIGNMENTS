@@ -1,0 +1,76 @@
+roll_number,full_name,email,phone,department,course,graduation_year,cgpa,skills,placement_status
+CS2026001,Aarav Sharma,aarav.sharma@placify.edu,+91 98201 44101,CSE,B.Tech,2026,8.95,"TypeScript, React, Node.js, SQL, System Design",In Process
+CS2026002,Priya Patel,priya.patel@placify.edu,+91 98201 44102,CSE,B.Tech,2026,9.24,"Python, Machine Learning, SQL, FastAPI, Docker",Unplaced
+CS2026003,Ishita Banerjee,ishita.banerjee@placify.edu,+91 98201 44103,CSE,B.Tech,2026,8.55,"Python, Data Structures, React, SQL, Linux",In Process
+CS2026004,Karan Malhotra,karan.malhotra@placify.edu,+91 98201 44104,CSE,B.Tech,2026,7.65,"JavaScript, React, Express, MongoDB, Git",In Process
+CS2026005,Vivaan Kulkarni,vivaan.kulkarni@placify.edu,+91 98201 44105,CSE,B.Tech,2026,9.41,"C++, Distributed Systems, Go, Kubernetes, SQL",Unplaced
+CS2026006,Ananya Iyer,ananya.iyer@placify.edu,+91 98201 44106,CSE,B.Tech,2026,8.82,"Java, Spring Boot, React, PostgreSQL, Docker",Unplaced
+CS2026007,Devansh Gupta,devansh.gupta@placify.edu,+91 98201 44107,CSE,B.Tech,2026,8.12,"Python, Django, SQL, Redis, AWS",Unplaced
+CS2026008,Sanya Kapoor,sanya.kapoor@placify.edu,+91 98201 44108,CSE,B.Tech,2026,9.08,"TypeScript, Next.js, Node.js, PostgreSQL, GraphQL",Unplaced
+CS2026009,Raghav Menon,raghav.menon@placify.edu,+91 98201 44109,CSE,B.Tech,2026,7.48,"Java, MySQL, HTML, CSS, JavaScript",Unplaced
+CS2026010,Tanya Deshmukh,tanya.deshmukh@placify.edu,+91 98201 44110,CSE,B.Tech,2026,8.67,"Python, PyTorch, SQL, FastAPI, Git",In Process
+CS2026011,Pranav Joshi,pranav.joshi@placify.edu,+91 98201 44111,CSE,B.Tech,2026,8.35,"Go, Docker, Linux, SQL, Microservices",Unplaced
+CS2026012,Nandini Rao,nandini.rao@placify.edu,+91 98201 44112,CSE,B.Tech,2026,9.15,"Java, Kafka, Spring Boot, React, AWS",Unplaced
+CS2026013,Kabir Khanna,kabir.khanna@placify.edu,+91 98201 44113,CSE,B.Tech,2026,7.88,"JavaScript, React, Node.js, MySQL",Unplaced
+CS2026014,Shruti Sengupta,shruti.sengupta@placify.edu,+91 98201 44114,CSE,B.Tech,2026,8.74,"Python, Data Engineering, Spark, SQL, Airflow",Unplaced
+CS2026015,Harshita Tiwari,harshita.tiwari@placify.edu,+91 98201 44115,CSE,B.Tech,2026,6.92,"C, Java, SQL, HTML, CSS",Unplaced
+IT2026016,Rohan Verma,rohan.verma@placify.edu,+91 98201 44116,IT,B.Tech,2026,8.40,"Java, Spring Boot, MySQL, React, AWS",Unplaced
+IT2026017,Diya Chatterjee,diya.chatterjee@placify.edu,+91 98201 44117,IT,B.Tech,2026,9.05,"Go, Kubernetes, PostgreSQL, TypeScript, React",Unplaced
+IT2026018,Vikram Singh,vikram.singh@placify.edu,+91 98201 44118,IT,B.Tech,2026,7.20,"HTML, CSS, JavaScript, PHP, MySQL",Unplaced
+IT2026019,Aditi Saxena,aditi.saxena@placify.edu,+91 98201 44119,IT,B.Tech,2026,8.61,"TypeScript, React, Tailwind CSS, Node.js, SQL",In Process
+IT2026020,Yashvardhan Nair,yashvardhan.nair@placify.edu,+91 98201 44120,IT,B.Tech,2026,8.18,"Python, Flask, PostgreSQL, Docker, Linux",Unplaced
+IT2026021,Kritika Agarwal,kritika.agarwal@placify.edu,+91 98201 44121,IT,B.Tech,2026,8.94,"Java, Microservices, React, SQL, Redis",Unplaced
+IT2026022,Sarthak Mishra,sarthak.mishra@placify.edu,+91 98201 44122,IT,B.Tech,2026,7.55,"JavaScript, Express, MongoDB, React",Unplaced
+IT2026023,Pooja Krishnan,pooja.krishnan@placify.edu,+91 98201 44123,IT,B.Tech,2026,8.48,"Python, Tableau, SQL, Power BI, Excel",Unplaced
+IT2026024,Nikhil Chawla,nikhil.chawla@placify.edu,+91 98201 44124,IT,B.Tech,2026,7.95,"C++, Java, SQL, React, Git",In Process
+IT2026025,Riya Bhatnagar,riya.bhatnagar@placify.edu,+91 98201 44125,IT,B.Tech,2026,9.12,"TypeScript, Go, AWS, SQL, System Design",Unplaced
+IT2026026,Aman Choudhary,aman.choudhary@placify.edu,+91 98201 44126,IT,B.Tech,2026,6.85,"Java, SQL, HTML, CSS, JavaScript",Unplaced
+IT2026027,Snehal Patil,snehal.patil@placify.edu,+91 98201 44127,IT,B.Tech,2026,8.27,"Python, React, FastAPI, PostgreSQL",Unplaced
+EC2026028,Sneha Nair,sneha.nair@placify.edu,+91 98201 44128,ECE,B.Tech,2026,8.72,"Embedded C, VLSI, Python, MATLAB, IoT",Unplaced
+EC2026029,Neha Reddy,neha.reddy@placify.edu,+91 98201 44129,ECE,B.Tech,2026,7.90,"C++, Embedded Linux, Verilog, Python",In Process
+EC2026030,Kunal Bose,kunal.bose@placify.edu,+91 98201 44130,ECE,B.Tech,2026,8.85,"VLSI, SystemVerilog, RTL Design, Python, C++",Unplaced
+EC2026031,Aishwarya Pillai,aishwarya.pillai@placify.edu,+91 98201 44131,ECE,B.Tech,2026,8.42,"Embedded C, RTOS, ARM Cortex, Python, CAN Bus",Unplaced
+EC2026032,Rohan Kulkarni,rohan.kulkarni@placify.edu,+91 98201 44132,ECE,B.Tech,2026,7.60,"Java, SQL, Python, IoT, Networking",Unplaced
+EC2026033,Simran Kaur,simran.kaur@placify.edu,+91 98201 44133,ECE,B.Tech,2026,8.19,"Signal Processing, MATLAB, Python, Embedded C",Unplaced
+EC2026034,Varun Subramanian,varun.subramanian@placify.edu,+91 98201 44134,ECE,B.Tech,2026,9.02,"C++, Embedded Linux, Firmware, VLSI, Git",Unplaced
+EC2026035,Mitali Joshi,mitali.joshi@placify.edu,+91 98201 44135,ECE,B.Tech,2026,7.35,"Python, SQL, IoT, PCB Design",Unplaced
+EC2026036,Gaurav Tripathi,gaurav.tripathi@placify.edu,+91 98201 44136,ECE,B.Tech,2026,7.78,"Embedded C, C++, Verilog, MATLAB",In Process
+EC2026037,Nidhi Sharma,nidhi.sharma@placify.edu,+91 98201 44137,ECE,B.Tech,2026,8.51,"Java, SQL, JavaScript, Python",Unplaced
+ME2026038,Aditya Joshi,aditya.joshi@placify.edu,+91 98201 44138,ME,B.Tech,2026,8.15,"AutoCAD, SolidWorks, ANSYS, Python, Lean Manufacturing",Unplaced
+ME2026039,Tanvi Deshpande,tanvi.deshpande@placify.edu,+91 98201 44139,ME,B.Tech,2026,8.35,"CATIA, MATLAB, Supply Chain, Python, Six Sigma",In Process
+ME2026040,Siddhant Gokhale,siddhant.gokhale@placify.edu,+91 98201 44140,ME,B.Tech,2026,8.68,"SolidWorks, ANSYS, Thermal Analysis, EV Powertrain, MATLAB",Unplaced
+ME2026041,Rishabh Jain,rishabh.jain@placify.edu,+91 98201 44141,ME,B.Tech,2026,7.92,"AutoCAD, Creo, GD&T, Six Sigma, Quality Control",Unplaced
+ME2026042,Prachi More,prachi.more@placify.edu,+91 98201 44142,ME,B.Tech,2026,8.05,"CATIA, SolidWorks, Robotics, Python, PLC",Unplaced
+ME2026043,Keshav Bansal,keshav.bansal@placify.edu,+91 98201 44143,ME,B.Tech,2026,7.14,"AutoCAD, Manufacturing Processes, Excel, SQL",Unplaced
+ME2026044,Ojaswi Sinha,ojaswi.sinha@placify.edu,+91 98201 44144,ME,B.Tech,2026,7.68,"ANSYS, SolidWorks, Thermodynamics, MATLAB",Unplaced
+ME2026045,Chirag Chauhan,chirag.chauhan@placify.edu,+91 98201 44145,ME,B.Tech,2026,6.75,"AutoCAD, SolidWorks, Maintenance Engineering",Unplaced
+CE2026046,Manav Saxena,manav.saxena@placify.edu,+91 98201 44146,CE,B.Tech,2026,7.85,"AutoCAD, STAAD Pro, Revit, Project Management",Unplaced
+CE2026047,Swati Deshmukh,swati.deshmukh@placify.edu,+91 98201 44147,CE,B.Tech,2026,8.46,"STAAD Pro, ETABS, AutoCAD, Primavera P6, Structural Design",Unplaced
+CE2026048,Akshay Kamble,akshay.kamble@placify.edu,+91 98201 44148,CE,B.Tech,2026,8.12,"Revit, BIM, AutoCAD, Quantity Surveying, Excel",Unplaced
+CE2026049,Bhavna Solanki,bhavna.solanki@placify.edu,+91 98201 44149,CE,B.Tech,2026,7.62,"AutoCAD, GIS, Hydrology, Project Planning",Unplaced
+CE2026050,Tejas Sawant,tejas.sawant@placify.edu,+91 98201 44150,CE,B.Tech,2026,7.25,"STAAD Pro, AutoCAD, Site Engineering, MS Project",Unplaced
+CE2026051,Pallavi Dubey,pallavi.dubey@placify.edu,+91 98201 44151,CE,B.Tech,2026,8.30,"ETABS, AutoCAD, Geotechnical Analysis, Python",In Process
+MB2026052,Siddharth Kapoor,siddharth.kapoor@placify.edu,+91 98201 44152,MBA,MBA,2026,8.60,"Financial Modeling, SQL, Tableau, Product Strategy, Excel",Unplaced
+MB2026053,Meera Krishnan,meera.krishnan@placify.edu,+91 98201 44153,MBA,MBA,2026,8.88,"SQL, Power BI, Market Research, Consulting, Python",Unplaced
+MB2026054,Arnav Sengupta,arnav.sengupta@placify.edu,+91 98201 44154,MBA,MBA,2026,8.45,"Product Management, SQL, Analytics, Figma, Agile",Unplaced
+MB2026055,Radhika Malhotra,radhika.malhotra@placify.edu,+91 98201 44155,MBA,MBA,2026,8.74,"Financial Valuation, Excel, Power BI, Risk Advisory, SQL",Unplaced
+MB2026056,Kshitij Oberoi,kshitij.oberoi@placify.edu,+91 98201 44156,MBA,MBA,2026,7.96,"Supply Chain Strategy, Tableau, Operations, Excel",In Process
+MB2026057,Niharika Vyas,niharika.vyas@placify.edu,+91 98201 44157,MBA,MBA,2026,8.21,"Business Analytics, SQL, Consulting, Power BI",Unplaced
+MB2026058,Shubham Parekh,shubham.parekh@placify.edu,+91 98201 44158,MBA,MBA,2026,7.68,"Corporate Finance, Excel, Financial Modeling, ERP",Unplaced
+CS2027059,Arjun Mehta,arjun.mehta@placify.edu,+91 98201 44159,CSE,B.Tech,2027,8.75,"C++, Python, React, TypeScript, SQL",Unplaced
+IT2027060,Anjali Gupta,anjali.gupta@placify.edu,+91 98201 44160,IT,B.Tech,2027,8.30,"Java, SQL, React, Tailwind CSS",Unplaced
+CS2027061,Rohan Hegde,rohan.hegde@placify.edu,+91 98201 44161,CSE,B.Tech,2027,9.02,"Go, TypeScript, React, PostgreSQL, Docker",Unplaced
+EC2027062,Kavita Nambiar,kavita.nambiar@placify.edu,+91 98201 44162,ECE,B.Tech,2027,8.48,"Embedded C, Python, Verilog, MATLAB",Unplaced
+IT2027063,Parth Bhardwaj,parth.bhardwaj@placify.edu,+91 98201 44163,IT,B.Tech,2027,8.14,"Python, FastAPI, React, SQL",Unplaced
+CS2027064,Zoya Qureshi,zoya.qureshi@placify.edu,+91 98201 44164,CSE,B.Tech,2027,8.91,"Machine Learning, Python, SQL, React",Unplaced
+ME2027065,Tarun Sood,tarun.sood@placify.edu,+91 98201 44165,ME,B.Tech,2027,8.22,"SolidWorks, AutoCAD, ANSYS, Python",Unplaced
+CS2025066,Rahul Bose,rahul.bose@placify.edu,+91 98201 44166,CSE,B.Tech,2025,8.80,"Java, Spring Boot, React, SQL, Docker",Unplaced
+EC2025067,Pooja Hegde,pooja.hegde@placify.edu,+91 98201 44167,ECE,B.Tech,2025,8.45,"Embedded C, Python, Signal Processing",Unplaced
+IT2025068,Samarth Raina,samarth.raina@placify.edu,+91 98201 44168,IT,B.Tech,2025,8.92,"TypeScript, Node.js, AWS, PostgreSQL",Unplaced
+ME2025069,Nitin Deshmukh,nitin.deshmukh@placify.edu,+91 98201 44169,ME,B.Tech,2025,8.10,"AutoCAD, SolidWorks, Six Sigma, CATIA",Unplaced
+MB2025070,Esha Chatterjee,esha.chatterjee@placify.edu,+91 98201 44170,MBA,MBA,2025,8.76,"Consulting, SQL, Power BI, Financial Modeling",Unplaced
+CS2025071,Kiran Deshpande,kiran.deshpande@placify.edu,+91 98201 44171,CSE,B.Tech,2025,9.18,"C++, Distributed Systems, Go, SQL",Unplaced
+CE2025072,Mayank Joshi,mayank.joshi@placify.edu,+91 98201 44172,CE,B.Tech,2025,8.25,"STAAD Pro, Revit, AutoCAD, Project Planning",Unplaced
+IT2025073,Divya Menon,divya.menon@placify.edu,+91 98201 44173,IT,B.Tech,2025,8.54,"Java, React, MySQL, Spring Boot",Unplaced
+CS2025074,Abhishek Rawat,abhishek.rawat@placify.edu,+91 98201 44174,CSE,B.Tech,2025,8.63,"Python, Django, PostgreSQL, Docker",Unplaced
+EC2025075,Shreya Kulkarni,shreya.kulkarni@placify.edu,+91 98201 44175,ECE,B.Tech,2025,8.38,"VLSI, Embedded Linux, C++, Python",Unplaced

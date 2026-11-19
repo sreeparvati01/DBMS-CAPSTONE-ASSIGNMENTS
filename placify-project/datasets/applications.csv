@@ -1,0 +1,47 @@
+roll_number,company_name,job_title,status,cover_note,applied_at
+CS2026001,Razorpay Systems,Software Development Engineer I,Interview,Built high-volume payment webhook processors and TypeScript React dashboards.,2026-11-10 10:15:00
+CS2026001,Zoho Corporation,Member Technical Staff,Shortlisted,Interested in core SaaS backend systems and database query optimization.,2026-11-11 14:20:00
+CS2026002,Freshworks Inc.,Software Engineer — Cloud Product,Selected,Passionate about scalable Python and Go microservices.,2026-10-02 09:30:00
+CS2026003,Razorpay Systems,Software Development Engineer I,Shortlisted,Strong DSA and React/SQL engineering background.,2026-11-12 11:50:00
+CS2026003,Deloitte Consulting,Business Technology Analyst,Interview,Experienced in SQL analytics and reporting pipelines.,2026-11-13 15:20:00
+CS2026004,Zoho Corporation,Member Technical Staff,Applied,Full-stack React and Express developer.,2026-11-14 12:10:00
+CS2026004,Tata Consultancy Services,Systems & Cloud Engineer,Shortlisted,Looking forward to enterprise systems engineering.,2026-11-15 09:45:00
+CS2026004,Razorpay Systems,Software Development Engineer I,Rejected,Applied for backend engineering role.,2026-11-08 18:00:00
+CS2026005,Atlassian India,Software Engineer — Cloud Platform,Selected,Built distributed consensus and Go microservices projects.,2026-11-01 09:30:00
+CS2026006,PhonePe Payments,Backend Systems Engineer,Selected,Spring Boot and PostgreSQL optimization experience.,2026-11-02 10:10:00
+CS2026007,Zoho Corporation,Member Technical Staff,Applied,Django and Redis developer with strong SQL skills.,2026-11-14 16:00:00
+CS2026008,Postman Technologies,Platform Software Engineer,Selected,Built API testing CLI and GraphQL cloud endpoints.,2026-11-03 11:25:00
+CS2026009,Tata Consultancy Services,Systems & Cloud Engineer,Applied,Java and MySQL capstone developer.,2026-11-15 13:40:00
+CS2026010,Flipkart Internet,SDE-1 Full Stack & Commerce,Interview,Cleared online coding round for commerce platform engineering.,2026-11-11 09:15:00
+CS2026011,Nutanix Cloud,Systems Software Engineer,Selected,Go and Linux systems programmer.,2026-11-04 14:30:00
+CS2026012,Flipkart Internet,SDE-1 Full Stack & Commerce,Selected,Kafka event streaming and Spring Boot specialist.,2026-11-03 15:00:00
+CS2026013,Accenture Strategy & Tech,Associate Software & Cloud Analyst,Applied,Full-stack JavaScript and MySQL web builder.,2026-11-16 10:20:00
+CS2026014,Deloitte Consulting,Business Technology Analyst,Selected,Spark and SQL data engineering internships.,2026-11-05 12:00:00
+IT2026016,Infosys Technologies,Specialist Programmer,Selected,Java Spring Boot microservices portfolio.,2026-09-10 11:00:00
+IT2026017,Freshworks Inc.,Software Engineer — Cloud Product,Selected,Go and Kubernetes cloud contributor.,2026-10-03 15:00:00
+IT2026018,Tata Consultancy Services,Systems & Cloud Engineer,Applied,Relational SQL and campus portal developer.,2026-11-16 10:05:00
+IT2026019,Postman Technologies,Platform Software Engineer,Interview,TypeScript and Node.js API workflow builder.,2026-11-12 14:45:00
+IT2026020,Zoho Corporation,Member Technical Staff,Shortlisted,Flask and PostgreSQL backend developer.,2026-11-13 09:50:00
+IT2026021,PhonePe Payments,Backend Systems Engineer,Selected,Java Redis high-concurrency transaction project.,2026-11-04 11:30:00
+IT2026023,Deloitte Consulting,Business Technology Analyst,Selected,Tableau and SQL business intelligence projects.,2026-11-06 10:15:00
+IT2026024,Accenture Strategy & Tech,Associate Software & Cloud Analyst,Interview,Shortlisted after technical assessment.,2026-11-14 15:10:00
+IT2026025,Atlassian India,Software Engineer — Cloud Platform,Selected,Distributed cloud platform intern experience.,2026-11-02 16:40:00
+EC2026028,Bosch Mobility,Embedded Systems Engineer,Selected,Embedded telemetry capstone and RTOS coursework.,2026-11-05 16:40:00
+EC2026029,Bosch Mobility,Embedded Systems Engineer,Interview,Embedded Linux and C++ firmware background.,2026-11-07 13:25:00
+EC2026030,Qualcomm Semiconductors,Associate SoC & Firmware Engineer,Selected,SystemVerilog RTL verification and VLSI tape-out coursework.,2026-11-03 10:00:00
+EC2026031,Bosch Mobility,Embedded Systems Engineer,Selected,ARM Cortex RTOS and CAN bus telemetry experience.,2026-11-06 11:20:00
+EC2026034,Qualcomm Semiconductors,Associate SoC & Firmware Engineer,Selected,Embedded Linux firmware and SoC bring-up lab lead.,2026-11-04 12:30:00
+EC2026036,Bosch Mobility,Embedded Systems Engineer,Shortlisted,Embedded C and MATLAB signal modeling.,2026-11-14 14:00:00
+ME2026038,Honeywell Aerospace,Mechanical Design & CAD Engineer,Selected,SolidWorks and ANSYS structural design portfolio.,2026-11-01 10:00:00
+ME2026039,Honeywell Aerospace,Mechanical Design & CAD Engineer,Shortlisted,CAD and Six Sigma green belt certification.,2026-11-12 16:00:00
+ME2026040,Siemens Digital Industries,PLM & CAE Simulation Engineer,Selected,ANSYS thermal analysis and EV powertrain modeling.,2026-11-05 11:10:00
+ME2026041,Mahindra Automotive,Graduate Engineer Trainee — EV Powertrain,Selected,Creo GD&T and automotive chassis design internship.,2026-11-07 09:40:00
+CE2026046,Tata Consultancy Services,Systems & Cloud Engineer,Rejected,Interested in enterprise IT roles.,2026-11-09 11:30:00
+CE2026047,Larsen & Toubro ECC,Graduate Engineer Trainee — Structural & Civil,Selected,ETABS and STAAD Pro high-rise structural design project.,2026-11-06 15:20:00
+CE2026048,Larsen & Toubro ECC,Graduate Engineer Trainee — Structural & Civil,Selected,BIM Revit coordination and quantity surveying internship.,2026-11-07 10:45:00
+CE2026051,Larsen & Toubro ECC,Graduate Engineer Trainee — Structural & Civil,Interview,Geotechnical foundation modeling and ETABS analysis.,2026-11-15 11:00:00
+MB2026052,Deloitte Consulting,Business Technology Analyst,Selected,Fintech modeling and SQL analytics internship.,2026-10-25 17:10:00
+MB2026053,Deloitte Consulting,Strategy & Analytics Associate,Selected,SaaS analytics and commercial consulting projects.,2026-10-08 14:15:00
+MB2026055,KPMG Advisory,Risk & Financial Analytics Consultant,Selected,Financial valuation and Power BI risk dashboards.,2026-11-08 13:15:00
+CS2027059,Razorpay Systems,Summer Engineering Intern (2027 Batch),Applied,2027 batch CSE applicant for summer PPO internship.,2026-11-17 09:00:00
+IT2027060,Razorpay Systems,Summer Engineering Intern (2027 Batch),Applied,2027 batch IT applicant eager to learn product engineering.,2026-11-17 11:45:00

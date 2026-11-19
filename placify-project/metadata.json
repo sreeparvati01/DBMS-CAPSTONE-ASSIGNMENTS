@@ -1,0 +1,6 @@
+{
+  "name": "PLACIFY",
+  "description": "College Placement Management & Recruitment System — Connecting Talent. Shaping Futures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
