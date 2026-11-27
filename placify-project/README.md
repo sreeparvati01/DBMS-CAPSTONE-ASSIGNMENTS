@@ -1,3 +1,4 @@
+########DEPLOYED LINK OF PLACIFY - https://placify-rxji.onrender.com
 # PLACIFY — College Placement Management & Recruitment System
 
 ### Connecting Talent. Shaping Futures.
